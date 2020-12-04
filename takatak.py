@@ -114,7 +114,7 @@ def slctrndm(li):
 
 
 def main():
-    print("ZORAVAR")
+    print("ZORAVARR")
     prinbrd(brd)
 
     while not(brdfull(brd)):
